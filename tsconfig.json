@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true
+    // Add other options as needed
+  },
+  "extends": "expo/tsconfig.base"
+}
